@@ -792,7 +792,7 @@
     "designation": "Ener number {{name}} and activation code. <br /> If you need add one code click <br /> «Add check»"
   },
   "instructionCoin": {
-    "designation": "I confirm that funds have been debited from my account.",
+    "designation": "CLICK HERE to confirm that funds have been debited from your account.",
     "required": "necessarily "
   },
   "failurePayment": {
