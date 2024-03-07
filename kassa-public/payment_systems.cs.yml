@@ -49,6 +49,14 @@ cs:
         destination_tag_checkbox: Bez Destination Tag
         payment_card_exp_date: Datum vypršení platnosti karty
         payment_card_exp_date_label: Datum vypršení platnosti karty
+        income_bank_name: Bank Name
+        income_bank_country: Bank Country
+        income_bank_erip: ERIP
+        income_phone: Phone number
+        outcome_bank_name: Bank Name
+        outcome_bank_country: Bank Country
+        outcome_bank_erip: ERIP
+        outcome_phone: Phone number
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567
@@ -155,6 +163,8 @@ cs:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
+        outcome_unk: Number associated with SBP
+        outcome_unk_label: Number associated with SBP
       acrub:
         income_account: Card number Alfa bank, 16 digits
         income_account_label: Card number Alfa bank
@@ -164,6 +174,8 @@ cs:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
+        outcome_unk: Number associated with SBP
+        outcome_unk_label: Number associated with SBP
       tcsbrub:
         income_account: Card number Tinkoff bank, 16 digits
         income_account_label: Card number Tinkoff bank
@@ -173,6 +185,8 @@ cs:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
+        outcome_unk: Number associated with SBP
+        outcome_unk_label: Number associated with SBP
       p24uah:
         income_account: Card number Privat bank, 16 digits
         income_account_label: Card number Privat bank
@@ -272,6 +286,8 @@ cs:
         income_fio_label: Sender full name
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
+        outcome_unk: Number associated with SBP
+        outcome_unk_label: Number associated with SBP
       uzcuzs:
         income_account: Card number, 16 digits
         income_account_label: Card number

@@ -53,6 +53,14 @@ ru:
         income_operator_label: Оператор
         outcome_operator: Оператор
         outcome_operator_label: Оператор
+        income_bank_name: Название банка
+        income_bank_country: Страна банка
+        income_bank_erip: ЕРИП
+        income_phone: Номер телефона
+        outcome_bank_name: Название банка
+        outcome_bank_country: Страна банка
+        outcome_bank_erip: ЕРИП
+        outcome_phone: Номер телефона
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567
@@ -151,16 +159,22 @@ ru:
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты
+        outcome_unk: Номер привязанный к СБП
+        outcome_unk_label: Номер привязанный к СБП
       acrub:
         income_account: Номер карты Альфа банка, 16 цифр
         income_account_label: Номер карты Альфа банка
         outcome_account: Номер карты Альфа банка, 16 цифр
         outcome_account_label: Номер карты Альфа банка
+        outcome_unk: Номер привязанный к СБП
+        outcome_unk_label: Номер привязанный к СБП
       tcsbrub:
         income_account: Номер карты Тинькофф банка, 16 цифр
         income_account_label: Номер карты Тинькофф банка
         outcome_account: Номер карты Тинькофф банка, 16 цифр
         outcome_account_label: Номер карты Тинькофф банка
+        outcome_unk: Номер привязанный к СБП
+        outcome_unk_label: Номер привязанный к СБП
       p24uah:
         income_account: Номер карты Приват банка, 16 цифр
         income_account_label: Номер карты Приват банка
@@ -246,6 +260,8 @@ ru:
         income_account_label: Номер карты
         outcome_account: Номер карты, 16 цифр
         outcome_account_label: Номер карты
+        outcome_unk: Номер привязанный к СБП
+        outcome_unk_label: Номер привязанный к СБП
       uzcuzs:
         income_account: Номер карты, 16 цифр
         income_account_label: Номер карты
