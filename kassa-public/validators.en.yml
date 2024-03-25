@@ -33,6 +33,7 @@ en:
         YAMRUB: 'You have entered the incorrect Yandex.Money wallet number. The wallet should contain from 10 to 16 digits'
         QWRUB: 'You entered an incorrect QIWI wallet number. The wallet number must match the pattern of +7 999 777 66 11'
         TBRUB: 'You entered an incorrect account number in Telebank, the account number must contain 20 digits'
+        RFBRUB: "You entered an incorrect account number in Raiffeisen, the card number must contain  16 - 18 digits"
         BTC: 'You have entered the incorrect BTC wallet number. Example: 3BHPaGuxZ3ozPmeEDcmBpfcGCGLh1iBGWV'
         ACRUB: 'You entered the wrong Alfa bank card number, the card number must contain 16 - 18 digits, to exchange with the MIR card - select the direction Карта МИР'
         PRUSD: 'You have entered the wrong Payeer wallet number. The purse number must match the template P1234567, P1234567890'
