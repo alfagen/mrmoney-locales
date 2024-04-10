@@ -51,12 +51,11 @@ cs:
         payment_card_exp_date_label: Datum vypršení platnosti karty
         income_bank_name: Bank Name
         income_bank_country: Bank Country
-        income_bank_erip: ERIP
-        income_phone: Phone number
         outcome_bank_name: Bank Name
         outcome_bank_country: Bank Country
-        outcome_bank_erip: ERIP
-        outcome_phone: Phone number
+        outcome_birthdate: Birthdate of receiver
+        outcome_iban: IBAN
+        outcome_erip: ERIP
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567
