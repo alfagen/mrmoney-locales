@@ -1199,7 +1199,8 @@
         "title": "Order №{{id}} successfully created <br />and accepted for processing!",
         "subtitle": "We will send funds according to your request within 20 minutes after the funds are credited to our account."
       },
-      "openChat": "Chat with us"
+      "openChat": "Chat with us",
+      "review": "Send feedback"
     },
     "statusBlock": {
       "waiting_payment": "We are waiting for payment",
