@@ -55,12 +55,11 @@ ru:
         outcome_operator_label: Оператор
         income_bank_name: Название банка
         income_bank_country: Страна банка
-        income_bank_erip: ЕРИП
-        income_phone: Номер телефона
         outcome_bank_name: Название банка
-        outcome_bank_country: Страна банка
-        outcome_bank_erip: ЕРИП
-        outcome_phone: Номер телефона
+        outcome_bank_country: Название банка
+        outcome_birthdate: Дата рождения получателя
+        outcome_iban: IBAN
+        outcome_erip: ЕРИП
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567
