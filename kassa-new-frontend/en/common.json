@@ -13,7 +13,8 @@
     "news": "News",
     "promotion": "Promotions",
     "updating": "Updates",
-    "notify": "Notifications"
+    "notify": "Notifications",
+    "manual": "Manual"
   },
   "links": {
     "about": "About service",
@@ -1141,45 +1142,45 @@
     "service": "service"
   },
   "cardVerificationMW": {
-     "title": "Card Verification",
-     "first": "Enter card details",
-     "fio": "Name of the cardholder",
-     "number": "Card number",
-     "second": "Upload photo",
-     "plastic": "Plastic card",
-     "virtual": "Virtual card",
-     "send": "Send for moderation",
-     "plasticInstruction": {
-       "first": "open our site on your computer",
-       "second": "take a picture of your card against it so that the card numbers can be read",
-       "third": "upload resulting photo",
-       "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
-     },
+    "title": "Card Verification",
+    "first": "Enter card details",
+    "fio": "Name of the cardholder",
+    "number": "Card number",
+    "second": "Upload photo",
+    "plastic": "Plastic card",
+    "virtual": "Virtual card",
+    "send": "Send for moderation",
+    "plasticInstruction": {
+      "first": "open our site on your computer",
+      "second": "take a picture of your card against it so that the card numbers can be read",
+      "third": "upload resulting photo",
+      "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+    },
     "virtualInstruction": {
-       "firstVariant": {
-         "title": "First way",
-         "first": "open the virtual card on your computer.",
-         "second": "in another window open our website (kassa.cc)",
-         "third": "zoom out one of the windows on the screen so that both windows can be photographed",
-         "fourth": "upload resulting photo",
-         "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
-       },
-       "secondVariant": {
-         "title": "Second way",
-         "first": "open virtual card on phone",
-         "second": "open the site kassa.cc",
-         "third": "take a photo of the virtual card with the kassa.cc tab open in the background",
-         "fourth": "upload resulting photo",
-         "notice": "Important! The card numbers and owner's name must be read on the photo."
-       },
-       "thirdVariant": {
-         "title": "Third way",
-         "first": "open the virtual map on your phone or computer.",
-         "second": "write on a piece of paper the name of our site kassa.cc and today's date",
-         "third": "put a piece of paper on the screen and take a photo",
-         "fourth": "upload resulting photo",
-         "notice": "Important! The card numbers and owner's name must be read on the photo."
-       }
+      "firstVariant": {
+        "title": "First way",
+        "first": "open the virtual card on your computer.",
+        "second": "in another window open our website (kassa.cc)",
+        "third": "zoom out one of the windows on the screen so that both windows can be photographed",
+        "fourth": "upload resulting photo",
+        "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+      },
+      "secondVariant": {
+        "title": "Second way",
+        "first": "open virtual card on phone",
+        "second": "open the site kassa.cc",
+        "third": "take a photo of the virtual card with the kassa.cc tab open in the background",
+        "fourth": "upload resulting photo",
+        "notice": "Important! The card numbers and owner's name must be read on the photo."
+      },
+      "thirdVariant": {
+        "title": "Third way",
+        "first": "open the virtual map on your phone or computer.",
+        "second": "write on a piece of paper the name of our site kassa.cc and today's date",
+        "third": "put a piece of paper on the screen and take a photo",
+        "fourth": "upload resulting photo",
+        "notice": "Important! The card numbers and owner's name must be read on the photo."
+      }
     }
   },
   "photoInput": {
