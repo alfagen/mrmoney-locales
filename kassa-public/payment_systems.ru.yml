@@ -71,10 +71,12 @@ ru:
         outcome_account: Номер карты Сбербанка, 16-18 цифр
         outcome_account_label: Номер карты Сбербанка
       yamrub:
-        income_account: Кошелек Яндекс.Денег, 10-16 цифр
-        income_account_label: Кошелек Яндекс.Денег, 10-16 цифр
-        outcome_account: Кошелек Яндекс.Денег, 10-16 цифр
-        outcome_account_label: Кошелек Яндекс.Денег
+        income_account: Кошелек ЮMoney, 10-16 цифр
+        income_account_label: Кошелек ЮMoney, 10-16 цифр
+        outcome_account: Кошелек ЮMoney, 10-16 цифр
+        outcome_account_label: Кошелек ЮMoney
+        outcome_unk: Номер привязанный к СБП
+        outcome_unk_label: Номер привязанный к СБП
       qwrub:
         income_account: Кошелек QIWI, +79999999999
         income_account_label: Кошелек QIWI, +79999999999
