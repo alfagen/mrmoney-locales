@@ -71,10 +71,12 @@ en:
         outcome_fio: Receiver full name
         outcome_fio_label: Receiver full name
       yamrub:
-        income_account: Yandex.Money wallet, 10-16 digits
-        income_account_label: Yandex.Money wallet, 10-16 digits
-        outcome_account: Yandex.Money wallet, 10-16 digits
-        outcome_account_label: Yandex.Money wallet
+        income_account: ЮMoney wallet, 10-16 digits
+        income_account_label: ЮMoney wallet, 10-16 digits
+        outcome_account: ЮMoney wallet, 10-16 digits
+        outcome_account_label: ЮMoney wallet
+        outcome_unk: Number associated with SBP
+        outcome_unk_label: Number associated with SBP
       qwrub:
         income_account: QIWI wallet, +79999999999
         income_account_label: QIWI wallet, +79999999999
