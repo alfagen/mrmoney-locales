@@ -62,14 +62,14 @@ en:
       create_ticket: Create an exchange request
     activation:
       title: Account activation!
-      signup_success: You have successfully registered at Kassa.cc.
+      signup_success: You have successfully registered
       access: 'Account access:'
       login_email: Use your e-mail as your login.
       password: 'Your password on the site:'
       change_password: You can change the password in the personal cabinet settings.
       change_password_link: Set password for your account.
       full_access: 'In order to get full access to your personal account, you need to
-        activate the account. After activation, you can enjoy all the benefits of Kassa:'
+        activate the account. After activation, you can enjoy all the benefits of the service:'
       tracking_orders: Track the status of all your applications,
       ref_programm: Participate in the referral program and discount systems,
       promo: Use promo materials to attract referrals.
@@ -78,13 +78,13 @@ en:
     activation_success:
       title: Your has been activated
       message: Your account is active now.
-      full_access: 'Now you can enjoy all the benefits of Kassa:'
+      full_access: 'Now you can enjoy all the benefits of service:'
     new_tickets_confirmation:
       title: Confirm the withdrawal of funds.
       outcome: Withdrawing funds in the amount of %{amount}.
       warning: If you did this, please click on the button below to confirm the withdrawal
         of rewards for the current requisites. If this is not done by you, do not click
-        on the button and contact Kassa.cc Technical Support as soon as possible.
+        on the button and contact Technical Support as soon as possible.
       goto_link: 'Please follow the link to complete the creation of an application for
         the withdrawal of rewards:'
       button: Confirm the output
@@ -147,7 +147,7 @@ en:
       changed_at: 'Date of change:'
     reserve_add:
       title: Reserve Replenishment Request Processed!
-      accepted: Your request <b>№ %{id}</b> to replenish the service reserve Kassa.cc Processed.
+      accepted: Your request <b>№ %{id}</b> to replenish the service reserve Processed.
       info: 'Information on request:'
       payment_system: 'Payment system:'
       amount: 'Amount:'
@@ -164,7 +164,7 @@ en:
     reserve_request_complete:
       title: 'Reserve replenishment request processed!'
       hello: Greetings!
-      complete_message: 'Your request №%{id} to replenish the reserve of the Kassa.cc service.'
+      complete_message: 'Your request №%{id} to replenish the reserve of the service.'
       request_info: 'Information on request'
       payment_system: 'Payment system'
       amount: Amount
