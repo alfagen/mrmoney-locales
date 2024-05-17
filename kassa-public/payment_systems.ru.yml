@@ -60,6 +60,8 @@ ru:
         outcome_birthdate: Дата рождения получателя
         outcome_iban: IBAN
         outcome_erip: ЕРИП
+        income_phone: Номер телефона банка
+        outcome_phone: Номер телефона банка
       pmusd:
         income_account: Кошелек Perfect Money, U1234567
         outcome_account: Кошелек Perfect Money, U1234567

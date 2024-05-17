@@ -56,6 +56,8 @@ cs:
         outcome_birthdate: Birthdate of receiver
         outcome_iban: IBAN
         outcome_erip: ERIP
+        income_phone: Bank phone number
+        outcome_phone: Bank phone number
       pmusd:
         income_account: Perfect Money wallet, U1234567
         outcome_account: Perfect Money wallet, U1234567
