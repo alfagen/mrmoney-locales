@@ -56,6 +56,7 @@ ru:
         income_bank_name: Название банка
         income_bank_country: Страна банка
         outcome_bank_name: Название банка
+        outcome_bank_name_label: Название банка
         outcome_bank_country: Страна банка
         outcome_birthdate: Дата рождения получателя
         outcome_iban: IBAN
@@ -165,6 +166,7 @@ ru:
         outcome_unk: Номер привязанный к СБП
         outcome_unk_label: Номер привязанный к СБП
         outcome_bank_name: Название банка
+        outcome_bank_name_label: Название банка
       acrub:
         income_account: Номер карты Альфа банка, 16 цифр
         income_account_label: Номер карты Альфа банка
@@ -267,6 +269,7 @@ ru:
         outcome_unk: Номер привязанный к СБП
         outcome_unk_label: Номер привязанный к СБП
         outcome_bank_name: Название банка
+        outcome_bank_name_label: Название банка
       rfbrub:
         income_account: Номер карты, 16 цифр
         income_account_label: Номер карты
