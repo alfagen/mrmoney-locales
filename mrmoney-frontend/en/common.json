@@ -1127,12 +1127,12 @@
   },
   "metaTags": {
     "exchangePage": {
-      "title": "Kassa.cc - Single currency exchange",
-      "description": "A single exchange of electronic currencies with high-quality service. We exchange: Qiwi, BTC, Perfect Money, Payeer, Alfa Bank, Tinkoff, VTB 24",
+      "title": "MrMoney - fast online cryptocurrency exchanger with minimal commissions",
+      "description": "MrMoney - cryptocurrency exchange with minimal commissions and instant transactions. The most favorable rates for bitcoin, ether and other digital assets with us.",
       "og": {
-        "title": "Kassa.cc - Single currency exchange",
-        "description": "A single exchange of electronic currencies with high-quality service. We exchange: Qiwi, BTC, Perfect Money, Payeer, Alfa Bank, Tinkoff, VTB 24",
-        "image": "http://kassa.cc/images/main_og_image.jpg"
+        "title": "MrMoney - fast online cryptocurrency exchanger with minimal commissions",
+        "description": "MrMoney - cryptocurrency exchange with minimal commissions and instant transactions. The most favorable rates for bitcoin, ether and other digital assets with us.",
+        "image": "http://mrmoney.cc/images/main_og_image.jpg"
       }
     }
   },
