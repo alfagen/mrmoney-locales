@@ -434,7 +434,8 @@
     "holderPassword": "Password",
     "enterLk": "Log in my account",
     "agree": "Turning to you account you agree with conditions and\n rules of our service.",
-    "singup": "Sign Up"
+    "singup": "Sign Up",
+    "proposal": "У вас еще нет аккаунта?"
   },
   "lkPage": {
     "title": "My account"
@@ -672,7 +673,7 @@
   },
   "signupSended": {
     "sended": "The letter has sent",
-    "mailInstruction": "On your mail: {{email}} <br /> has sent letter with futher instructions. <br /> has sent letter with futher instructions.  ",
+    "mailInstruction": "On your mail: <strong>{{email}}</strong> <br /> has sent letter with futher instructions.",
     "goto": "For confirming e-mail click to link in\nyour letter",
     "exchangeNow": "Exchange now"
   },

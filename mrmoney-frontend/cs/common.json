@@ -404,7 +404,8 @@
     "holderPassword": "Heslo",
     "enterLk": "Přihlásit se do Klientské zóny",
     "agree": "Vstupem do klientské zóny vyjadřujete svůj souhlas s pravidly a podmínkami služby. ",
-    "singup": "Zaregistrovat se"
+    "singup": "Zaregistrovat se",
+    "proposal": "У вас еще нет аккаунта?"
   },
   "lkPage": {
     "title": "Klientská zóna"
