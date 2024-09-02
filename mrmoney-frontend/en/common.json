@@ -1189,6 +1189,34 @@
     "info": "Drop photo here \n or",
     "upload": "download photo"
   },
+  "mrMoney": {
+    "footer": {
+      "copyright": "© {{year}}, mrmoney.cc — work fast",
+      "slogan": "work fast",
+      "copyrightOptional": "© {{year}}, {{orgName}} — {{notice}}",
+      "copyrightOrgName": "mrmoney.cc",
+      "copyrightNotice": "work fast"
+    },
+    "notFound": {
+      "title": "Something is wrong...<br/>We lost the page",
+      "text": "This page may have been removed or you made a mistake. Let's start with the main page or you can write to support so they can guide you.",
+      "techSuppBtn": "Write to support",
+      "btn": "to main page"
+    },
+    "partnersPage": {
+      "firstBlock": {
+        "title": "Affiliate program for users",
+        "text": "Want to earn with us? Register on our website and you will be able to participate in our referral program, as well as receive cashback! After registration, you automatically receive a cumulative discount for the exchange - 5%.",
+        "button": "Read more"
+      },
+      "secondBlock": {
+        "title": "Monitoring and services",
+        "text": "We invite exchange monitoring services to cooperate. We are very glad to have new partners and are ready to share profits...",
+        "link": "API",
+        "button": "Connect"
+      }
+    }
+  },
   "orderPage": {
     "topBlock": {
       "rejected": {
