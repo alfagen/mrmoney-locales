@@ -3,7 +3,7 @@
     "notice": "Automatic exchange without verification",
     "fullday": "24/7",
     "tg": "TG chat",
-    "mail": "support@kassa.cc",
+    "mail": "support@mrmoney.cc",
     "chat": "Support chat"
   },
   "breadcrumbs": {
@@ -34,7 +34,7 @@
     "promo": "Promo contributions",
     "settings": "Settings",
     "exchange": "Exchange",
-    "contest": "Gifts from Kassa.cc"
+    "contest": "Gifts from mrmoney.cc"
   },
   "setting": {
     "aml": {
@@ -154,9 +154,9 @@
     "confirmPhoneNotifyTitle": "Link your phone number to your account!",
     "confirmPhoneNotify": "To receive notifications from the service and for further verification of the status of your account, link your phone number to your account in the settings. {{fillLink}}.",
     "needVerificationNotifyTitle": "You need to boost your account status",
-    "needVerificationNotify": "Kassa.cc will start work under a European license from January 1, 2019. Go through simple account verification to get new features.",
+    "needVerificationNotify": "mrmoney.cc will start work under a European license from January 1, 2019. Go through simple account verification to get new features.",
     "notAuthorizedNotifyTitle": "Service update",
-    "notAuthorizedNotify": "Kassa.cc will start work under a European license from January 1, 2019. Go through simple account verification to get new features.",
+    "notAuthorizedNotify": "mrmoney.cc will start work under a European license from January 1, 2019. Go through simple account verification to get new features.",
     "bindNow": "Link a Card",
     "notice": "You can change main account settings and write data for communication:",
     "userAgreements": {
@@ -381,10 +381,10 @@
     "title": "Questions and answers"
   },
   "footer": {
-    "copyright": "© {{year}}, Kassa.cc — single currency exchange",
+    "copyright": "© {{year}}, mrmoney.cc — single currency exchange",
     "slogan": "Made with soul",
     "copyrightOptional": "© {{year}}, {{orgName}} — {{notice}}",
-    "copyrightOrgName": "Kassa.cc",
+    "copyrightOrgName": "mrmoney.cc",
     "copyrightNotice": "single currency exchange"
   },
   "notify": {
@@ -402,7 +402,7 @@
     "title": "For monitorings",
     "invite": "We are pleased to invite monitorings of exchanges.We are very glad to new partners and ready to share profit.",
     "referalLink": "Register in our site and you wil get special referal link.",
-    "reward": "All monitorings has a standart 0,5% from the exchange amount of your referrals. Write us on mail kassa.today@gmail.com and in special sutiations we will talk abou size of your per cent.",
+    "reward": "All monitorings has a standart 0,5% from the exchange amount of your referrals. Write us on mail mrmoney.today@gmail.com and in special sutiations we will talk abou size of your per cent.",
     "downloadExport": "Download export rates.",
     "registration": "Register as monitoring"
   },
@@ -557,9 +557,9 @@
     "audioTimeSeconds": "Length {{seconds}} sec.",
     "audioSizeMb": "mb",
     "sizeKb": "kb",
-    "audioFirstTitle": "Female voice Kassa",
+    "audioFirstTitle": "Female voice mrmoney",
     "audioFirstSubtitle": "Service Advertising",
-    "audioSecondTitle": "Female voice Kassa",
+    "audioSecondTitle": "Female voice mrmoney",
     "audioSecondSubtitle": "Service Advertising"
   },
   "RewardsRequestForm": {
@@ -704,7 +704,7 @@
     "notice": "For verification you should be take a picture of the card from faceside with our site on background. Verification process takes few minutes and require only once on every new card.",
     "requirementLabel": "Requirement to photo:",
     "requirement1": "On photo must be read card numbe, owner's name.",
-    "requirement2": "On backside should be see monitor with opened kassa.cc site",
+    "requirement2": "On backside should be see monitor with opened mrmoney.cc site",
     "title": "Card verification"
   },
   "verificationForm": {
@@ -804,7 +804,7 @@
     "content": "Within 18 minutes the payment for your application has not been credited to our account. In the event that funds have been written off from your account, contact technical support."
   },
   "common": {
-    "kassa_sign": "Respectfully, your Kassa."
+    "mrmoney_sign": "Respectfully, your mrmoney."
   },
   "paymentConfirm": {
     "cancel": "Cancel and exit",
@@ -864,13 +864,13 @@
     "exnodeName": "Exnode",
     "showAll": "Show all",
     "links": {
-      "bestchange": "https://www.bestchange.com/kassa-exchanger.html",
+      "bestchange": "https://www.bestchange.com/mrmoney-exchanger.html",
       "bitkointalk": "https://bitcointalk.org/index.php?topic=1574514.msg15806745#msg15806745&#10;&#9;&#9;&#9;",
       "mmgp": "http://mmgp.ru/showthread.php?t=458503&amp;page=1#post11133201",
-      "kursexpert": "https://kurs.expert/ru/obmennik/kassa-cc/feedbacks.html",
-      "bitsmedia": "https://forum.bits.media/index.php?/topic/27575-kassacc-edinyi-obmen-valiut/&#10;&#9;&#9;&#9;",
+      "kursexpert": "https://kurs.expert/ru/obmennik/mrmoney-cc/feedbacks.html",
+      "bitsmedia": "https://forum.bits.media/index.php?/topic/27575-mrmoneycc-edinyi-obmen-valiut/&#10;&#9;&#9;&#9;",
       "trusteeWallet": "https://trusteeglobal.com/ru/",
-      "trustpilot": "https://www.trustpilot.com/review/kassa.cc",
+      "trustpilot": "https://www.trustpilot.com/review/mrmoney.cc",
       "exnode": "https://exnode.ru/exchangers/exchanger-375411/"
     }
   },
@@ -939,10 +939,10 @@
     },
     "upload": {
       "title": "Verification of cards",
-      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the Kassa.cc website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
+      "description": "Please take a photo of your bank card with any device on the background of the monitor (screen) of the computer with the open tab of the mrmoney.cc website.<br />This is necessary for confirming the voluntary transfer of your funds from the card to make an exchange on our website.",
       "requirementLabel": "Photo Requirement:",
       "requirement1": "On the photo card number and the name of the owner should be readable.",
-      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site kassa.cc",
+      "requirement2": "The monitor should be visible behind the card (in the background) with the open tab of the site mrmoney.cc",
       "control": "Select a file...",
       "error": "Download error. Please try again",
       "uploading": "Photo upload - {{progress}}%"
@@ -1024,7 +1024,7 @@
     "conditionThirdCashback": "Cashback amount 15%",
     "explanation": "* Please note, that you get a percentage of the service's earnings from each of your exchange transactions. Cashback is charged only if the service commission for the exchange was more than 0%. If there is no service commission for this exchange direction, no cashback is charged.",
     "referralBlock": {
-      "title": "Earn money on the referral program Kassa.cc.",
+      "title": "Earn money on the referral program mrmoney.cc.",
       "description": " The referral program is your income from all user exchanges registered with your referral link.",
       "descriptionSecond": "Register on the site and participate in the program.",
       "start": "Start work"
@@ -1050,7 +1050,7 @@
     "referralConditionsFourthTitle": "100 referrals",
     "referralConditionsFourthItem": "JBL Charge 3",
     "referralConditionsFifthTitle": "20 referrals",
-    "referralConditionsFifthItem": "Gift from Kassa.сс",
+    "referralConditionsFifthItem": "Gift from mrmoney.сс",
     "referralConditionsSixthTitle": "30 referrals",
     "referralConditionsSixthItem": "Power bank",
     "referralConditionsSeventhTitle": "Registration on the site",
@@ -1060,7 +1060,7 @@
   },
   "oauth": {
     "sectionTitle": "Authorization by social network",
-    "sectionNotice": "Connect your social networks for the convenience of instant authorization in нour personal account Kassa.cc",
+    "sectionNotice": "Connect your social networks for the convenience of instant authorization in нour personal account mrmoney.cc",
     "connect": "Connect",
     "disconnect": "Disconnect",
     "google": "google.com",
@@ -1078,7 +1078,7 @@
     "otherPartnersLink": "Other partnership offers",
     "heroDescription": "We offer safe and reliable technologies for connecting payment acceptance on the Internet.",
     "connect": "Connect",
-    "advantagesTitle": "Benefits Internet{{space}}-{{space}}Acquiring Kassa",
+    "advantagesTitle": "Benefits Internet{{space}}-{{space}}Acquiring mrmoney",
     "advantage1Title": "Without documents",
     "advantage1Notice": "We do not request documents and data about your legal entity",
     "advantage2Title": "No turnover requirements",
@@ -1156,29 +1156,29 @@
       "first": "open our site on your computer",
       "second": "take a picture of your card against it so that the card numbers can be read",
       "third": "upload resulting photo",
-      "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+      "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the mrmoney.ss website should be visible behind the card"
     },
     "virtualInstruction": {
       "firstVariant": {
         "title": "First way",
         "first": "open the virtual card on your computer.",
-        "second": "in another window open our website (kassa.cc)",
+        "second": "in another window open our website (mrmoney.cc)",
         "third": "zoom out one of the windows on the screen so that both windows can be photographed",
         "fourth": "upload resulting photo",
-        "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the kassa.ss website should be visible behind the card"
+        "notice": "Important! The card numbers and owner's name should be visible on the photo. An open tab with the mrmoney.ss website should be visible behind the card"
       },
       "secondVariant": {
         "title": "Second way",
         "first": "open virtual card on phone",
-        "second": "open the site kassa.cc",
-        "third": "take a photo of the virtual card with the kassa.cc tab open in the background",
+        "second": "open the site mrmoney.cc",
+        "third": "take a photo of the virtual card with the mrmoney.cc tab open in the background",
         "fourth": "upload resulting photo",
         "notice": "Important! The card numbers and owner's name must be read on the photo."
       },
       "thirdVariant": {
         "title": "Third way",
         "first": "open the virtual map on your phone or computer.",
-        "second": "write on a piece of paper the name of our site kassa.cc and today's date",
+        "second": "write on a piece of paper the name of our site mrmoney.cc and today's date",
         "third": "put a piece of paper on the screen and take a photo",
         "fourth": "upload resulting photo",
         "notice": "Important! The card numbers and owner's name must be read on the photo."
