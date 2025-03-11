@@ -217,7 +217,8 @@
     "raiseStatus": "You need to increase your account status to select this direction. <br /> {{link}}",
     "raiseStatusLink": "Upgrade the status",
     "fixedRates": "This is fixed rate",
-    "tooltipNotice": "This is fixed rate, that is, after clicking on 'exchange now', the rate in the application does not change"
+    "tooltipNotice": "This is fixed rate, that is, after clicking on 'exchange now', the rate in the application does not change",
+    "client_tg": "Your Telegram / WhatsApp"
   },
   "settingForm": {
     "labelSurname": "Surname",
